@@ -1,7 +1,7 @@
 var path = require("path");
 
 module.exports = {
-  entry: ['./react/app.js', './react/kurse.js'],
+  entry: ['./react/app.js'],
   output: {
     path: path.resolve(__dirname, "public/dist"),
     filename: "main.js",
