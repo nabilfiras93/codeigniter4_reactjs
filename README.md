@@ -22,11 +22,11 @@
 3. Install packed node modules
    `npm install or yarn`
 4. Install ReactJs 
-   npm install path @babel/core @babel/preset-react react babel-loader react-dom --save
+   `npm install path @babel/core @babel/preset-react react babel-loader react-dom --save`
 5. Install Webpack
-   npm install webpack webpack-cli --global
+   `npm install webpack webpack-cli --global`
 6. Generate ReactJs dengan webpack
-   webpack --config webpack.config.js
+   `webpack --config webpack.config.js`
 7. Import file sql pada database
 
 
