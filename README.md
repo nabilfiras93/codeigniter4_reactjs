@@ -27,6 +27,8 @@
    `npm install webpack webpack-cli --global`
 6. Generate ReactJs dengan webpack
    `webpack --config webpack.config.js`
+7. Generate vendor
+   `composer install`
 7. Import file sql pada database
 
 
