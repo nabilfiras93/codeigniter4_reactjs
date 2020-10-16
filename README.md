@@ -8,17 +8,11 @@
 	github_cli : gh repo clone nabilfiras93/codeigniter4_reactjs
 
 2. Buat (.env) file, letakkan setara dengan package.json dengan isi sbb :
-   	#--------------------------------------------------------------------
 	# ENVIRONMENT
-	#--------------------------------------------------------------------
-
 	CI_ENVIRONMENT = production
-	#CI_ENVIRONMENT = development 
 
-	#--------------------------------------------------------------------
+
 	# DATABASE
-	#--------------------------------------------------------------------
-
  	database.default.hostname = localhost
  	database.default.database = {nama_db}
  	database.default.username = root
