@@ -14,10 +14,15 @@
 
 	# DATABASE
  	database.default.hostname = localhost
+	
  	database.default.database = {nama_db}
+	
  	database.default.username = root
+	
  	database.default.password = 
+	
  	database.default.DBDriver = MySQLi
+	
 
 3. Install packed node modules
    `npm install or yarn`
