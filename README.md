@@ -36,7 +36,7 @@
 
 - pastikan komputer running server dengan php versi 7. 
 - buka direktori project, lalu running shell command didalam direktori project : `php spark serve`
-	Ex : C:\xampp\htdocs\your_project_dir>  php spark serve 
+	Ex : your_project_dir > php spark serve 
 - jika berhasil akan muncul : "CodeIgniter development server started on http://localhost:8080"
 - Buka browser lalu running http://localhost:8080
 
